@@ -1,0 +1,7 @@
+C:\Users\tech-w98a\Engineering26\Week5\Day2\HOMEWORK\Sparta_Global_IntermCalculator\IntermCalculator\IntermCalculator\bin\Debug\IntermCalculator.exe.config
+C:\Users\tech-w98a\Engineering26\Week5\Day2\HOMEWORK\Sparta_Global_IntermCalculator\IntermCalculator\IntermCalculator\bin\Debug\IntermCalculator.exe
+C:\Users\tech-w98a\Engineering26\Week5\Day2\HOMEWORK\Sparta_Global_IntermCalculator\IntermCalculator\IntermCalculator\bin\Debug\IntermCalculator.pdb
+C:\Users\tech-w98a\Engineering26\Week5\Day2\HOMEWORK\Sparta_Global_IntermCalculator\IntermCalculator\IntermCalculator\obj\Debug\IntermCalculator.csprojAssemblyReference.cache
+C:\Users\tech-w98a\Engineering26\Week5\Day2\HOMEWORK\Sparta_Global_IntermCalculator\IntermCalculator\IntermCalculator\obj\Debug\IntermCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tech-w98a\Engineering26\Week5\Day2\HOMEWORK\Sparta_Global_IntermCalculator\IntermCalculator\IntermCalculator\obj\Debug\IntermCalculator.exe
+C:\Users\tech-w98a\Engineering26\Week5\Day2\HOMEWORK\Sparta_Global_IntermCalculator\IntermCalculator\IntermCalculator\obj\Debug\IntermCalculator.pdb
