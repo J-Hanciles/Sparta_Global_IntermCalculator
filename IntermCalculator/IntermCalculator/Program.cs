@@ -66,7 +66,7 @@ namespace IntermCalculator
                     radius = Double.Parse(Console.ReadLine());
 
                     circans = 3.142 * (radius * radius);
-                    Console.WriteLine("The area of your Circle is " + circans);
+                    Console.WriteLine("Circle area calculation " + "3.142" + " " + "*" + " "+ radius + "*2" + " " + "The area is " + circans);
                     Console.ReadLine();
 
                 }
@@ -78,7 +78,7 @@ namespace IntermCalculator
                     width = Double.Parse(Console.ReadLine());
 
                     trians = 0.5 * height * width;
-                    Console.WriteLine("The area of your Triangle is " + trians);
+                    Console.WriteLine("Triangle area calculation " + height + " " + "*" + " " + width + " " + "/2" + " " + "The area is " + trians);
                     Console.ReadLine();
 
                 }
@@ -86,11 +86,11 @@ namespace IntermCalculator
                 {
                     Console.WriteLine("Enter Rectangle Height");
                     height = Double.Parse(Console.ReadLine());
-                    Console.WriteLine("Enter Rectangle Height");
+                    Console.WriteLine("Enter Rectangle Width");
                     width = Double.Parse(Console.ReadLine());
 
                     recans = height * width;
-                    Console.WriteLine("The area of your Rectangle is " + recans);
+                    Console.WriteLine("Rectangle area calculation " + height + " " + "*" + " " + width + " " + "The area is " + recans);
                     Console.ReadLine();
 
                 }
